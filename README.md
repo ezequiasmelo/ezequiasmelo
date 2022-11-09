@@ -17,12 +17,19 @@
 
 ### Technologies & Tools
 
-![](https://img.shields.io/badge/_-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
+<!-- ![](https://img.shields.io/badge/_-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red) -->
 ![](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=red)
 ![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=red)
 ![](https://img.shields.io/badge/MySql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=red)
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=red&color=4C4949'/></a>
+<a href='https://github.com' target="_blank">
+  <img alt='ANGULAR' src='https://img.shields.io/badge/ANGULAR-100000?style=for-the-badge&logo=ANGULAR&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
+</a>
+<a href='https://github.com' target="_blank">
+  <img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
+</a>
+
+<br />
 
 <a href="https://www.linkedin.com/in/ezequias-rodrigo-de-melo-78133a252" alt="Linkedin">
   <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=informational" />
