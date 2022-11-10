@@ -19,9 +19,11 @@
 
 <div>
   <img alt='ANGULAR' src='https://img.shields.io/badge/angular-100000?style=for-the-badge&logo=angular&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
+  <img alt='MYSQL' src='https://img.shields.io/badge/typescript-100000?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
   <img alt='LARAVEL' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
   <img alt='PHP' src='https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
   <img alt='MYSQL' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
+  <img alt='GitHub' src='https://img.shields.io/badge/react%20native-100000?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
   <img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=red&color=4C4949'/>
 </div>
 
