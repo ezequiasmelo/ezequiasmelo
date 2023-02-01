@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
 - 🔭 I’m currently working on **Angular, PHP (Laravel) e MySql**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**/**Dart**
 
 ### GitHub Stats
 
